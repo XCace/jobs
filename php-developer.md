@@ -10,7 +10,7 @@
 developer_mode = On
 ```
 
-В качестве результата можно прислать [запакованный модуль](https://devs.x-cart.com/getting_started/creating-module.html#packing-up-your-module) на join@x-cart.com. Если появятся вопросы - можно писать или в [Issues](https://github.com/xcart/jobs/issues), или на daemos@x-cart.com.
+В качестве результата можно прислать [запакованный модуль](https://devs.x-cart.com/getting_started/creating-module.html#packing-up-your-module) на join@x-cart.com. 
 
 Собственно, вот и сами задания:
 
